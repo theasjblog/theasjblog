@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### About me
-I am a software development team lead. I use this space to work on some personal peroject and as a sandbox to try a few things out.
+I am a software development team lead. I use this space to work on some personal projects and as a sandbox to try a few things out.
 
 <a href="https://www.linkedin.com/in/adrian-joseph/">
   <img align="left" alt="Adrian Joseph LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
